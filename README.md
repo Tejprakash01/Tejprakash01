@@ -30,7 +30,10 @@
 ### 🤖 AI/ML
 - Pandas, NumPy, Scikit-learn, PyTorch  
 - Data Analysis & EDA  
-- Model Building & Evaluation  
+- Model Building & Evaluation
+- RAG
+- Agentic AI
+- Deep Learning  
 
 ### ⚙️ Tools & Technologies
 - Git & GitHub  
